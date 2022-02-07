@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\AUT_Project\AUT_Project\bin\AUT_Project.dll
+C:\Users\user\Desktop\AUT_Project\AUT_Project\bin\AUT_Project.pdb
+C:\Users\user\Desktop\AUT_Project\AUT_Project\obj\Debug\AUT_Project.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\AUT_Project\AUT_Project\obj\Debug\AUT_Project.dll
+C:\Users\user\Desktop\AUT_Project\AUT_Project\obj\Debug\AUT_Project.pdb
